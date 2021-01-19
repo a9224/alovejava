@@ -1,5 +1,5 @@
-package ConditionalStatements;
-public class ConditionalStatements{
+package ControlStatements;
+public class ControlStatements{
 	public static void main(String[] args) {
 		System.out.println("if-else statement:"
 				+ "\n--------------------");
